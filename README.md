@@ -37,6 +37,10 @@ This will route traffic to suricata using iptables rules.
 
 To see http logs, see `/var/log/suricata/http.log`.
 
+## Log Comparison ##
+To compare the logs of squid and suricata run differentiate.py in a directory 
+which contains the suricata log (http.log) and squid log (access.log).
+
 For more information refer to the [Reference Manual](./Reference\ Manual.pdf).
 
 ## Contact ##
