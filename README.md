@@ -37,7 +37,7 @@ This will route traffic to suricata using iptables rules.
 
 To see http logs, see `/var/log/suricata/http.log`.
 
-For more information refer to the Reference Manual.
+For more information refer to the [Reference Manual](./Reference\ Manual.pdf).
 
 ## Contact ##
 * [Pratik Bhatu](mailto:cs12b1010@iith.ac.in)
